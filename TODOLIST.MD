@@ -36,13 +36,13 @@
 8. Make an input area which lets the user press enter and find data on Belgium
 
 - [] HTML
-	- [] Input
-	- [] Give an ID
+	- [x] Input
+	- [x] Give an ID
 - [] Interaction
-	- [] Select input area
-	- [] Add event listener to input area (keyup)
-	- [] Look in event for the code (event.code)
-	- [] If event.code is Enter -> get data from API on Belgium
+	- [x] Select input area
+	- [x] Add event listener to input area (keyup)
+	- [x] Look in event for the code (event.code)
+	- [x] If event.code is Enter -> get data from API on Belgium
 
 9. Make the value from the input area usable as query for the GET request
 
