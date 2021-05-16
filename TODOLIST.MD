@@ -46,6 +46,6 @@
 
 9. Make the value from the input area usable as query for the GET request
 
-- [] Select input area (const inputField = document...)
-- [] const query = inputField.value -> e.g. England
+- [x] Select input area (const inputField = document...)
+- [x] const query = inputField.value -> e.g. England
 - [] Replace belgium in url for "dynamic value" (query)
