@@ -25,13 +25,13 @@
 
 7. Add an image to page (country-flag)
 
-- [] find url for image (API-response)
-- [] HTML
-	- [] Make div (with ID)
-	- [] Select div (getElementById)
-	- [] Create img element (createElement -> img)
-	- [] Add url to image (`img.src = url`, `img.setAttribute("src, url"`))
-	- [] appendChild -> to the div
+- [x] find url for image (API-response)
+- [x] HTML
+	- [x] Make div (with ID)
+	- [x] Select div (getElementById)
+	- [x] Create img element (createElement -> img)
+	- [x] Add url to image (`img.src = url`, `img.setAttribute("src, url"`))
+	- [x] appendChild -> to the div
 
 8. Make an input area which lets the user press enter and find data on Belgium
 
