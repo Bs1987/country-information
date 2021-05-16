@@ -8,9 +8,9 @@
 - [x] Link axios to HTML
 
 1. Make search button -> get data on Belgium (click)
-- [] HTML
-    - [] Make button
-    - [] Give button id
+- [x] HTML
+    - [x] Make button
+    - [x] Give button id
 - [] Program interaction
   - [] Select button: document.getElementById
   - [] Make event listener: .addEventListener 
