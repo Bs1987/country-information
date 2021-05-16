@@ -11,12 +11,12 @@
 - [x] HTML
     - [x] Make button
     - [x] Give button id
-- [] Program interaction
-  - [] Select button: document.getElementById
-  - [] Make event listener: .addEventListener 
-  - [] Make event handler async function (execute on click)
-- [] Make request to API
-  - [] find url for Belgium (api docs)
-  - [] axios.get(url)
-  - [] add await to async function (we don't want a promise)
-  - [] Log the data
+- [x] Program interaction
+  - [X] Select button: document.getElementById
+  - [X] Make event listener: .addEventListener 
+  - [x] Make event handler async function (execute on click)
+- [x] Make request to API
+  - [x] find url for Belgium (api docs)
+  - [x] axios.get(url)
+  - [x] add await to async function (we don't want a promise)
+  - [x] Log the data
